@@ -1,0 +1,10 @@
+#root {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+}
